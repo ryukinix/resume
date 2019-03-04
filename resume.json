@@ -1,0 +1,194 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "Projects",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Experience",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Manoel Vilela Machado Neto",
+    "email": "manoel_vilela@engineer.com",
+    "phone": "+5588997511615",
+    "website": "https://lerax.me"
+  },
+  "education": [
+    {
+      "institution": "Universidade Federal do Ceará",
+      "location": "Sobral, Ceará",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "Aug 2016",
+      "gpa": "8.5",
+      "endDate": "Dec 2020"
+    },
+    {
+      "institution": "Universidade Federal do Pará",
+      "gpa": "9.0",
+      "startDate": "Aug 2014",
+      "endDate": "Jun 2016",
+      "location": "Tucuruí, Pará",
+      "studyType": "BS",
+      "area": "Computer Engineering"
+    }
+  ],
+  "work": [
+    {
+      "company": "Nexus Edge",
+      "location": "São Paulo, SP",
+      "position": "Machine Learning Engineer",
+      "website": "",
+      "startDate": "Aug 2015",
+      "endDate": "Aug 2016",
+      "highlights": [
+        "Build a model to classify comments of Facebook posts based on Natural Language Processing and Machine Learning techniques using Neural Networks.",
+        "Explore unsupervised models to topic modelling and topic extraction: LDA, Word2Vec, K-Means and others.",
+        "Modelling a system for spellchecking based on a natural language graph of Portuguese using Neo4j."
+      ]
+    },
+    {
+      "highlights": [
+        "Build a PDF parser to extract public entites from Diário Oficial of Justice from some states. The model will extract like: laywers names, its ids and processes ids.",
+        "Build a temporal model to classify the probability of a company being bankrupt in the next 3 months based on temporal features of today and the past.",
+        "Build a Natural Language Processing model to extract public designations/exoneration from Diário Oficial da União Section from the public site imprensanacional.gov.br",
+        "Build a datascience template using advanced Software Engineering techniques for the Data Analytics team.",
+        "Build a Sentiment Analysis model to classify companies based on its feedback in sites like TripAdvisor."
+      ],
+      "position": "Data Scientist",
+      "company": "Neoway Business Solutions",
+      "startDate": "Fev 2018",
+      "endDate": "Present",
+      "location": "Florianópolis, SC"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Common Lisp",
+        "C",
+        "Haskell",
+        "Go"
+      ]
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Emacs",
+        "Spark",
+        "Pandas",
+        "GCP",
+        "CatBoost",
+        "Scikit-Learn",
+        "NLTK",
+        "SpaCy"
+      ],
+      "name": "Tools & Libraries"
+    },
+    {
+      "keywords": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Mathematics",
+        "Operating Systems"
+      ],
+      "name": "Domain Knowledge"
+    }
+  ],
+  "projects": [
+    {
+      "description": "An experimental chat system written in Common Lisp",
+      "url": "http://github.com/lisp-chat",
+      "keywords": [
+        "Common Lisp",
+        "Usockets",
+        "SBCL"
+      ],
+      "name": "Lisp Chat"
+    },
+    {
+      "keywords": [
+        "Go",
+        "Linux",
+        ""
+      ],
+      "name": "U-root",
+      "url": "https://github.com/u-root/u-root",
+      "description": "A fully Go userland! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go. "
+    },
+    {
+      "keywords": [
+        "Python",
+        "argparse",
+        "requests",
+        "decorating",
+        ""
+      ],
+      "name": "mal",
+      "description": "A CLI tool for management of MyAnimeList",
+      "url": "https://github.com/ryukinix/mal"
+    },
+    {
+      "keywords": [
+        "Python"
+      ],
+      "name": "Decorating",
+      "description": "A library to use Python decorators for terminal animation",
+      "url": "https://github.com/ryukinix/decorating"
+    },
+    {
+      "keywords": [
+        "Common Lisp",
+        "WebLocks",
+        ""
+      ],
+      "name": "Lisp Inference",
+      "description": "An Inference Engine based on Propositional Calculus written in Common Lisp",
+      "url": "https://logic.lerax.me/"
+    },
+    {
+      "keywords": [
+        "Common Lisp",
+        "Quicklisp",
+        null
+      ],
+      "name": "Quicksys",
+      "description": "A tool to install quicklisp systems from multiple distributions over world",
+      "url": "https://github.com/commonlispbr/quicksys"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Go",
+        "C",
+        "Haskell",
+        "Common Lisp",
+        "C++",
+        null
+      ],
+      "name": "DestructHub/ProjectEuler",
+      "description": "A ProjectEuler solutions repository written in more than 20 languages!",
+      "url": "https://github.com/DestructHub/ProjectEuler"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
